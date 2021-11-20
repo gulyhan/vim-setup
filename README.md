@@ -20,11 +20,10 @@ Edit the .vimrc file and update the settings by typing (in Vim):
 
 ## Setting up the plugins
 
-Download the vim plugins downloader ([command from this github repository](https://github.com/junegunn/vim-plug)
+Download the vim plugins downloader ([command from this github repository](https://github.com/junegunn/vim-plug))
 ```
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
-
 ```
 
 Install the plugins (in Vim) type:
