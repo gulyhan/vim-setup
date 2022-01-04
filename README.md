@@ -53,6 +53,6 @@ Go to the definition
 ```
 
 
-# Rerefence
+# Reference
 
 [Your first VimRC: How to setup your vim's vimrc](https://youtu.be/n9k9scbTuvQ) from ThePrimeagen
